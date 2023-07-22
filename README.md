@@ -8,4 +8,4 @@ Topics (from [Neetcode.io](https://neetcode.io/practice) and Leetcode): Arrays &
 
 | #        | Name                                                      | Difficulty | Solution                                                                                                                                                | Time              | Topic            |
 | -------- | --------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- |
-| 1        | Two Sum                                                   | Easy       | [Java](https://github.com/dxsonu7/Technical-Interview-Prep/blob/main/Leetcode/1TwoSum.java)                                                     | 7 mins           |
+| 1        | Two Sum                                                   | Easy       | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/1-TwoSum.java)                                                     | 7 mins           |
