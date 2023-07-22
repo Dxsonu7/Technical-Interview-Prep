@@ -1,6 +1,6 @@
 # Technical Interview Prep
 
-This repository is a collection of coding problems that I have solved to prepare for technical (SWE) interviews. Questions are completed in Java.
+This repository is a collection of technical coding problems that I have solved to prepare for technical interviews. These questions are solved in Java. I am planning on solving LC questions every weekend.
 
 Topics (from [Neetcode.io](https://neetcode.io/practice) and Leetcode): Arrays & Hashing, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Trees, Tries, Heap/Priority Queue, Backtracking, Graphs, 1-D Dynamic Programming (DP), 2-D Dynamic Programming (DP), Greedy, Intervals, Math & Geometry, Bit Manipulation, Matrix, and Sorting.
 
