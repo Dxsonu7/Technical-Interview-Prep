@@ -6,9 +6,10 @@ Topics (from [Neetcode.io](https://neetcode.io/practice) and Leetcode): Arrays &
 
 ## LeetCode
 
-| #        | Name                                                      | Difficulty | Solution                                                                                                                                                | Time              | Topic            |
-| -------- | --------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- |
+| #        | Name                                                      | Difficulty | Solution                                                                                                                                                | Time              | Topic            | Last Solved |
+| -------- | --------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- | ------ |
 | 1        | Two Sum                                                   | Easy       | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/1-TwoSum.java)                                                     | 15 mins           |
 | 121      | Best Time to Buy and Sell Stock                           | Easy       | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/121-BestTimeStock.java)                                            | 10 mins           |
-| 20       | Valid Parentheses                                         | Easy       | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/20-ValidParentheses.java)                                          | N/A               |Stack           |
-| 152      | Maximum Product SubArray                                  | Medium     | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/152-MaxProdSubArray.java)                                          | 12 mins           |
+| 20       | Valid Parentheses                                         | Easy       | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/20-ValidParentheses.java)                                          |                   |Stack           |
+| 152      | Maximum Product SubArray                                  | Medium     | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/152-MaxProdSubArray.java)                                          | 12 mins           |    Array           | 7/27/23           |
+
