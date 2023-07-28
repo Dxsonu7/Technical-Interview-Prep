@@ -1,6 +1,7 @@
 package LeetCode;
 
-// Time: O(n^2) | Space: O(1)
+/* Time: O(n^2) | Space: O(1)
+   First approach: bruteforce */
 class Solution {
     public int maxProduct(int[] nums) {
         if (nums.length == 0) // base case
