@@ -20,3 +20,4 @@ Topics (from [Neetcode.io](https://neetcode.io/practice) and Leetcode): Arrays &
 |49    | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)    |  Medium          |                                                                                     |            | String           | 10/07/23
 |1108    | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)    |           |                                                                                     |            | String           |
 |704   | [Binary Search](https://leetcode.com/problems/binary-search/)    |        |                                                                                     |            | Array / Binary Search           | 10/15/23
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Recursive DFS   |    |    | Tree | 10/29/23
