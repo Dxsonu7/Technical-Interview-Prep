@@ -21,3 +21,4 @@ This repository is a collection of technical coding problems that I have solved 
 |1108    | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)    |           |                                                                                     |            | String           |
 |704   | [Binary Search](https://leetcode.com/problems/binary-search/)    |        |                                                                                     |            | Array / Binary Search           | 10/15/23
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Recursive DFS   |    |    | Tree | 10/29/23
+| 242 | [isAnagram/Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |    |  [Java](https://leetcode.com/problems/valid-anagram/solutions/5609874/hashmap-solution/)  | 14 mins   | Arrays & Hashing | 8/8/24
