@@ -22,3 +22,4 @@ This repository is a collection of technical coding problems that I have solved 
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Recursive DFS   |    |    | Tree | 10/29/23
 | 242 | [isAnagram/Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |    |  [Java](https://leetcode.com/problems/valid-anagram/solutions/5609874/hashmap-solution/)  | 14 mins   | Arrays & Hashing | 8/8/24
 | 1        | Two Sum                                                   |            | [Java](https://github.com/Dxsonu7/Technical-Interview-Prep/blob/main/LeetCode/1-TwoSum.java)                                                     | 9 mins           |                          |  8/9/24
+| 167 | Two Integer Sum II                                               |   Two Pointers         |                                                     | 8 mins           |                          |  8/26/24
